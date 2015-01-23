@@ -9,6 +9,6 @@ package adv_java.class2.homework;
  *
  * @author Alex
  */
-public class OopProgrammingLanguage extends ProgrammingLanguage{
+public interface OOP {
     
 }
