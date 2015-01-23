@@ -9,6 +9,6 @@ package adv_java.class2.homework;
  *
  * @author Alex
  */
-public class Laptop {
+public class Laptop extends Computer{
     
 }
