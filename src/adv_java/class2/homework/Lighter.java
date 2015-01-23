@@ -9,6 +9,6 @@ package adv_java.class2.homework;
  *
  * @author Alex
  */
-public abstract class Laptop extends Computer implements Smaller, Lighter {
+public interface Lighter {
     
 }

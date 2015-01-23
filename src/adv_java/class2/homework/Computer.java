@@ -9,6 +9,6 @@ package adv_java.class2.homework;
  *
  * @author Alex
  */
-public class Computer {
+public abstract class Computer extends Machine{
     
 }
