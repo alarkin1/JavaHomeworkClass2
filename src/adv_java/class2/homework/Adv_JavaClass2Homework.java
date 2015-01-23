@@ -15,7 +15,8 @@ public class Adv_JavaClass2Homework {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        AsusRogG750 newComputer = new AsusRogG750();
+        Python newLanguage = new Python();
     }
     
 }
